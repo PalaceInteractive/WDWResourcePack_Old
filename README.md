@@ -1,4 +1,4 @@
-MCMagic Resource Pack
+ThePalaceMC Disney Resource Pack
 
 To use this with your client:
 
