@@ -8,3 +8,8 @@
 - Deleted splashes.txt, mojang.png and minecraft.png to remove MCMagic references.
 - Removed zips directory.
 - Added binaries directory.
+
+## v10.6.3 (2016-12-01)
+
+- Updated README.md to explain how to contribute
+- Removed binaries directory
