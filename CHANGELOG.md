@@ -17,3 +17,4 @@
 ## v10.6.4 (2016-12-14)
 
 - Update book background to inclue Palace name
+- Include Santa hat from Seasonal resource pack
