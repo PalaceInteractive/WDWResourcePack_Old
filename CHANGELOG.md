@@ -18,3 +18,7 @@
 
 - Update book background to inclue Palace name
 - Include Santa hat from Seasonal resource pack
+
+## v10.6.5 (2016-12-16)
+
+- Tweak design of autograph book background
