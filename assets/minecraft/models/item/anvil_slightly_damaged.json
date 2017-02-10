@@ -1,7 +1,7 @@
 {
     "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
     "textures": {
-        "particle": "blocks/blocks/brick",
+        "particle": "blocks/brick",
         "0": "blocks/wool_colored_black",
         "1": "blocks/wool_colored_silver",
         "2": "blocks/glass_lime",
