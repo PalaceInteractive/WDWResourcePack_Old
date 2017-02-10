@@ -22,3 +22,7 @@
 ## v10.6.5 (2016-12-16)
 
 - Tweak design of autograph book background
+
+## v10.6.6 (2017-02-10)
+
+- Change pack version
