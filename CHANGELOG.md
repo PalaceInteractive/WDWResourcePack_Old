@@ -26,3 +26,7 @@
 ## v10.6.6 (2017-02-10)
 
 - Change pack version
+
+## v10.6.7 (2017-03-26)
+
+- Add new models
