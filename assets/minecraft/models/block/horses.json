@@ -918,19 +918,6 @@
 			}
 		},
 		{
-			"__comment": "Cube2",
-			"from": [ 9, 9.875, 7.625 ],
-			"to": [ 10, 31.875, 8.625 ],
-			"faces": {
-				"down": { "uv": [ 9, 7.375, 10, 8.375 ], "texture": "#texture3" },
-				"up": { "uv": [ 9, 7.625, 10, 8.625 ], "texture": "#texture3" },
-				"north": { "uv": [ 6, 0, 7, 6.125 ], "texture": "#texture3" },
-				"south": { "uv": [ 9, 0, 10, 6.125 ], "texture": "#texture3" },
-				"west": { "uv": [ 7.625, 0, 8.625, 6.125 ], "texture": "#texture3" },
-				"east": { "uv": [ 7.375, 0, 8.375, 6.125 ], "texture": "#texture3" }
-			}
-		},
-		{
 			"__comment": "Cube72",
 			"from": [ 16.625, 12.375, 5.5 ],
 			"to": [ 17.625, 13.375, 10.5 ],

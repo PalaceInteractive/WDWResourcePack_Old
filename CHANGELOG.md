@@ -30,3 +30,7 @@
 ## v10.6.7 (2017-03-26)
 
 - Add new models
+
+## v10.6.8 (2017-03-26)
+
+- Modify new models
