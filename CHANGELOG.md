@@ -34,3 +34,7 @@
 ## v10.6.8 (2017-03-26)
 
 - Modify new models
+
+## v11 (2017-09-12)
+
+- Prepare new models for release
