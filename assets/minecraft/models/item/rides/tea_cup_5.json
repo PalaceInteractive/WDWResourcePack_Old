@@ -3,7 +3,7 @@
 	"textures": {
 		"particle": "items/e_particle",
 		"texture": "blocks/hardened_clay_stained_white",
-		"texture1": "blocks/wool_colored_light_blue",
+		"texture1": "blocks/wool_colored_red",
 		"texture2": "blocks/wool_colored_gray",
 		"texture3": "blocks/wool_colored_black",
 		"texture4": "blocks/wool_colored_silver",
