@@ -38,3 +38,7 @@
 ## v11 (2017-09-12)
 
 - Prepare new models for release
+
+## v11.1 (2017-09-29)
+
+ - Import halloween cosmetics
