@@ -41,4 +41,8 @@
 
 ## v11.1 (2017-09-29)
 
- - Import halloween cosmetics
+- Import halloween cosmetics
+
+## v11.2 (2017-10-1)
+
+- Add Mickey Wand
