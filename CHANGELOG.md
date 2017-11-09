@@ -46,3 +46,7 @@
 ## v11.2 (2017-10-1)
 
 - Add Mickey Wand
+
+## v11.3 (2017-11-8)
+
+- Add Anniversary Items
