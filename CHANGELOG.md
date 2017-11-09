@@ -34,3 +34,19 @@
 ## v10.6.8 (2017-03-26)
 
 - Modify new models
+
+## v11 (2017-09-12)
+
+- Prepare new models for release
+
+## v11.1 (2017-09-29)
+
+- Import halloween cosmetics
+
+## v11.2 (2017-10-1)
+
+- Add Mickey Wand
+
+## v11.3 (2017-11-8)
+
+- Add Anniversary Items
