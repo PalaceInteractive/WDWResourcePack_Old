@@ -54,3 +54,7 @@
 ## v11.4 (2017-11-8)
 
 - Add Tower of Terror model
+
+## v11.5 (2017-11-8)
+
+- Make one teacup green
