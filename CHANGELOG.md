@@ -50,3 +50,7 @@
 ## v11.3 (2017-11-8)
 
 - Add Anniversary Items
+
+## v11.4 (2017-11-8)
+
+- Add Tower of Terror model
