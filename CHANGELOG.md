@@ -51,10 +51,14 @@
 
 - Add Anniversary Items
 
-## v11.4 (2017-11-8)
+## v11.4 (2018-04-16)
 
 - Add Tower of Terror model
 
-## v11.5 (2017-11-8)
+## v11.5 (2018-04-16)
 
 - Make one teacup green
+
+## v11.6 (2018-04-21)
+
+- Fix translation on cyan teacup
