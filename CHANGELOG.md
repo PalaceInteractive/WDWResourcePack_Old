@@ -62,3 +62,7 @@
 ## v11.6 (2018-04-21)
 
 - Fix translation on cyan teacup
+
+## v11.7 (2018-06-5)
+
+- Add pride ears
