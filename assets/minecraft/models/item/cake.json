@@ -1,13 +1,13 @@
 {
 	"__comment": "Designed by Kodak_kev with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "blocks/e_particle",
-		"texture": "blocks/wool_colored_white",
+		"particle": "block/e_particle",
+		"texture": "block/white_wool",
 		"texture1": "custom/palacelogo",
-		"texture2": "blocks/fire_layer_0",
-		"texture3": "blocks/wool_colored_purple",
-		"texture4": "blocks/wool_colored_blue",
-		"texture6": "blocks/hardened_clay_stained_yellow",
+		"texture2": "block/fire_layer_0",
+		"texture3": "block/purple_wool",
+		"texture4": "block/blue_wool",
+		"texture6": "block/yellow_terracotta",
 		"texture5": "custom/number1_"
 	},
 	"elements": [ 	 
