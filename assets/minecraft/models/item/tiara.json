@@ -1,10 +1,10 @@
 {
 	"__comment": "Designed by Kodak_kev with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"particle": "block/e_particle",
-		"texture": "block/yellow_terracotta",
-		"texture2": "block/crown",
-		"texture1": "block/sand"
+		"particle": "blocks/e_particle",
+		"texture": "blocks/hardened_clay_stained_yellow",
+		"texture2": "blocks/crown",
+		"texture1": "blocks/sand"
 	},
 	"elements": [
 		{
